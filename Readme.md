@@ -1,7 +1,7 @@
 <h1>¡Hola! 👋</h1>
 My nombre es Stivens soy de Perú y un apasionado por la tecnología.
 
-Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el desarrollo web. 
+Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el desarrollo web.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stivens19&show_icons=true&theme=vue-dark&count_private=true)
 
@@ -16,20 +16,23 @@ Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el de
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40px" height="40px"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"/> </a>
+ 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40px" height="40px"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40px" height="40px"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40px" height="40px"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original-wordmark.svg" alt="tailwind" width="40px" height="40px"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40px" height="40px"/> </a>
+    <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 </p>
 
+### 🖐 Sobre mi...
 
-### 🖐 Sobre mi... 
-- 💻 Me gusta compartir mi conocimiento [YouTube](https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA) 
+- 💻 Me gusta compartir mi conocimiento [YouTube](https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA)
 - 🧑 Web personal [Instagram](https://www.stivensespinoza.online/)
 - 💜 Apasionado por JS
 - ☕ Me encanta el café
