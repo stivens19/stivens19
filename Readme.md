@@ -10,7 +10,7 @@ Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el de
   <a href="https://www.linkedin.com/in/stivens-espinoza-11954b184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stivens-espinoza-11954b184" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA" height="30" width="40" /></a>
   <a href="https://twitter.com/StivensE19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="StivensE19" height="30" width="40" /></a>
-    [Web](https://www.stivensespinoza.online/)
+[Web](https://www.stivensespinoza.online)
 
 </p>
 
@@ -27,7 +27,7 @@ Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el de
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40px" height="40px"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40px" height="40px"/> </a>
-    <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+    <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
 </p>
 
 ### 🖐 Sobre mi...
