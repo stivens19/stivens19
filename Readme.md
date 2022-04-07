@@ -1,5 +1,5 @@
 <h1>¡Hola! 👋</h1>
-My nombre es Stivens soy de Perú y un apasionado por la tecnología.
+Mi nombre es Stivens soy de Perú y un apasionado por la tecnología.
 
 Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el desarrollo web.
 
