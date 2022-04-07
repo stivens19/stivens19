@@ -33,7 +33,7 @@ Actualmente curso la carrera de Ingenieria de Sistemas y mi gran pasion es el de
 ### 🖐 Sobre mi...
 
 - 💻 Me gusta compartir mi conocimiento [YouTube](https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA)
-- 🧑 Web personal [Instagram](https://www.stivensespinoza.online/)
+- 🧑 Web personal [web](https://www.stivensespinoza.online/)
 - 💜 Apasionado por JS
 - ☕ Me encanta el café
 
