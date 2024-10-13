@@ -1,7 +1,7 @@
 <h1>¡Hola! 👋</h1>
 Mi nombre es Stivens soy de Perú y un apasionado por la tecnología.
 
-Bachiller en Ingenieria de Sistemas y mi gran pasion es el desarrollo web.
+Ingeniero de Sistemas y mi gran pasion es el desarrollo web.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stivens19&show_icons=true&theme=vue-dark&count_private=true)
 
