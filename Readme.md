@@ -1,40 +1,47 @@
-<h1>¡Hola! 👋</h1>
-Mi nombre es Stivens soy de Perú y un apasionado por la tecnología.
+# <h1>¡Hola! Soy Stivens 👋</h1>
 
-Ingeniero de Sistemas y mi gran pasion es el desarrollo web.
+### 👨‍💻 Full Stack Developer | Software Architect | Cloud Learner
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stivens19&show_icons=true&theme=vue-dark&count_private=true)
+Soy de **Perú** 🇵🇪, Ingeniero de Sistemas especializado en el desarrollo de software robusto y escalable. Mi enfoque principal es la aplicación de **Clean Architecture** y patrones de diseño modernos para resolver problemas complejos.
 
-<h3 align="left">Mis Redes:</h3>
+---
+
+### 🛠️ Ecosistema Técnico
+
+| Capa | Tecnologías |
+| :--- | :--- |
+| **Backend** | .NET (C#), Laravel (PHP), Spring Boot |
+| **Frontend** | React, Next.js, Angular, Tailwind CSS |
+| **Databases** | SQL Server, MySQL, PostgreSQL |
+| **Architecture** | Hexagonal Architecture, Domain-Driven Design (DDD) |
+| **DevOps** | Git, Docker, AWS (Exploring ☁️) |
+
+---
+
+### 🏗️ Proyectos Destacados
+- 📡 **TRANS.WS**: API desarrollada en **.NET 8** bajo **Arquitectura Hexagonal**, enfocada en escalabilidad y mantenibilidad.
+- 🏫 **BitSchool**: Aplicación móvil para la gestión integral de instituciones educativas.
+- 🌐 **Colegiados Web**: Sistema genérico y adaptable para la gestión de colegios profesionales.
+
+---
+
+### 📊 Actividad en GitHub
+![Estadísticas de Stivens](https://github-readme-stats.vercel.app/api?username=stivens19&show_icons=true&theme=vue-dark&count_private=true&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=stivens19&theme=vue-dark&layout=compact&hide_border=true)
+
+---
+
+### 🖐️ Un poco más sobre mí
+- 🎥 Creador de contenido técnico en [YouTube](https://www.youtube.com/@stivensespinozar) sobre desarrollo web.
+- 📐 Obsesionado con el **Clean Code** y el desacoplamiento de software.
+- 🏀 Fanático del basketball y de *How I Met Your Mother*.
+- ☕ El café nunca puede faltar en mi jornada de desarrollo.
+
+---
+
+### 🌐 Hablemos
 <p align="left">
-  <a href="https://www.linkedin.com/in/stivens-espinoza-11954b184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stivens-espinoza-11954b184" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA" height="30" width="40" /></a>
-  <a href="https://twitter.com/StivensE19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="StivensE19" height="30" width="40" /></a>
-[Web](https://www.stivensespinoza.online)
-
+  <a href="https://www.linkedin.com/in/stivens-espinoza-11954b184/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@stivensespinozar" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.stivensespinoza.online" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40px" height="40px"/> </a>
- 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40px" height="40px"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" height="40px"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40px" height="40px"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40px" height="40px"/> </a>
-    <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100px" height="40px"></a>
-</p>
-
-### 🖐 Sobre mi...
-
-- 💻 Me gusta compartir mi conocimiento [YouTube](https://www.youtube.com/channel/UCE4fUc_1EDWr4YTj2w_eaWA)
-- 🧑 Web personal [web](https://www.stivensespinoza.online/)
-- 💜 Apasionado por JS
-- ☕ Me encanta el café
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stivens19&theme=vue-dark)](https://github.com/yesidays/github-readme-stats)
